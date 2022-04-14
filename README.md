@@ -5,4 +5,4 @@
 <img width="" height="" src="./5주차/5주차_결과.png"></img>
 
 ## 6주차 (2022-04-07)
-<img width="" height="" src="./6주차/6주차_결과.png"></img>
+<img width="" height="" src="./6주차/6주차.png"></img>
