@@ -8,4 +8,4 @@
 <img width="" height="" src="./6주차/6주차.png"></img>
 
 ## 기말고사 대체 프로젝트 (2022-06-15)
-<img width="" height="" src="./기말고사/기말-프로젝트-결과.png"></img>
+<img width="" height="" src="./기말고사/기말-프로젝트-결과.png"></img>
